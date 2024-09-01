@@ -62,6 +62,7 @@ function DarsDetails() {
               <p className="w-8 print:w-8 -rotate-90">തശ്കീല്‍</p>
               <p className="w-8 print:w-8 -rotate-90">മലയാള പ്രബന്ധം</p>
               <p className="w-8 print:w-8 -rotate-90">പ്രശ്നോത്തരി</p>
+              <p className="w-8 print:w-8 -rotate-90">വിവര്‍ത്തനം</p>
             </div>
           </div>
         </div>
