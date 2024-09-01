@@ -9,7 +9,7 @@ function DarsDetails() {
   // Find pe darsname corresponding to pe slug
   const selectedDars = Data.find((item) => item.slug === slug);
   const darsData = Data.filter(
-    (item) => item.slug === slug && item.category === "JUNIOR"
+    (item) => item.slug === slug && item.category1 === "JUNIOR"
   );
 
   if (!selectedDars) {
