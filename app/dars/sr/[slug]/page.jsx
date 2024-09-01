@@ -7,7 +7,7 @@ function DarsDetails() {
   const { slug } = useParams();
   const selectedDars = Data.find((item) => item.slug === slug);
   const darsData = Data.filter(
-    (item) => item.slug === slug && item.category === "NON STAGE"
+    (item) => item.slug === slug && item.category === "SENIOR"
   );
 
   if (!selectedDars) {
