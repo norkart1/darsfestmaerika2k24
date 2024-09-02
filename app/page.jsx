@@ -41,6 +41,11 @@ function Search() {
       "offstage18",
       "offstage19",
       "offstage20",
+      "offstage21",
+      "offstage22",
+      "offstage23",
+      "offstage24",
+      "offstage25",
       
       "stage1",
       "stage2",
@@ -238,7 +243,12 @@ function Search() {
       selectedItem.offstage17 ||
       selectedItem.offstage18 ||
       selectedItem.offstage19 ||
-      selectedItem.offstage20 ||
+      selectedItem.offstage20 ||    
+      selectedItem.offstage21 ||
+      selectedItem.offstage22 ||
+      selectedItem.offstage23 ||
+      selectedItem.offstage24 ||
+      selectedItem.offstage25 ||
       
               selectedItem.groupoffstage1 ||
               selectedItem.groupoffstage2 ||
@@ -269,6 +279,11 @@ function Search() {
      <p>{selectedItem.offstage18}</p>
      <p>{selectedItem.offstage19}</p>
      <p>{selectedItem.offstage20}</p>
+     <p>{selectedItem.offstage21}</p>
+     <p>{selectedItem.offstage22}</p>
+     <p>{selectedItem.offstage23}</p>
+     <p>{selectedItem.offstage24}</p>
+     <p>{selectedItem.offstage25}</p>
                     <p>{selectedItem.groupoffstage1}</p>
                     <p>{selectedItem.groupoffstage2}</p>
                     <p>{selectedItem.groupoffstage3}</p>
