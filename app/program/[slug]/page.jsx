@@ -130,8 +130,8 @@ function ProgramDetail() {
   return (
     <div className="p-20 print:p-2 lg:flex lg:flex-col lg:items-center">
       <div className="text-center">
-        <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
-        <p className="text-2xl font-bold my-2">Kondotty Zone</p>
+        <p className="text-3xl font-bold ">Maerika2k24 </p>
+        <p className="text-2xl font-bold my-2">Jawharathul Uloom Suffa Dars Art Fest 2k24</p>
         <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
           {programData.program} ({programData.category})
         </h1>
