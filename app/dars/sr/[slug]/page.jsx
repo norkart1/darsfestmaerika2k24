@@ -20,8 +20,8 @@ function DarsDetails() {
     values.some((value) => value && value.includes(number + 20));
   return (
     <div className="text-center text-xs m-10 print:m-0 p-8 rounded-xl mr-6">
-      <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
-      <p className="text-2xl font-bold mb-2">Kondotty Zone</p>
+      <p className="text-3xl font-bold ">Maerika2k24</p>
+      <p className="text-2xl font-bold mb-2">Jawharathul Uloom Suffa Dars Art Fest 2k24</p>
       <div className="">
         <div className="flex h-48 items-end mb-8 w-[1260px]">
           <div className="w-[400px] my-auto text-center">
