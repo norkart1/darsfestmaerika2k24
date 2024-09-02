@@ -458,6 +458,17 @@
    "groupoffstage1": "44. പത്രനിര്‍മാണം",
    "groupoffstage2": "45. എക്സ്പ്പിനിമേഷൻ"
  },
+      {
+      "code": "BA004",
+   "name": "MUHAMMED IRFANUL ASHIF P",
+   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "darsplace": "VALAMANGALAM",
+   "zone": "BADRIYA",
+   "slug": "jawharathul-uloom-suffa-dars",
+   "category": "PROGRAM"
+   
+  
+      },
    {
       "code": "BA005",
    "name": "MUHAMMED RAHIL KM",
