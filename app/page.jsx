@@ -25,21 +25,22 @@ function Search() {
       "offstage1",
       "offstage2",
       "offstage3",
-      "offstage1",
-      "offstage2",
-      "offstage3",
-      "offstage1",
-      "offstage2",
-      "offstage3",
-      "offstage1",
-      "offstage2",
-      "offstage3",
-      "offstage1",
-      "offstage2",
-      "offstage3",
-      "offstage1",
-      "offstage2",
-      "offstage3",
+      "offstage4",
+      "offstage5",
+      "offstage6",
+      "offstage7",
+      "offstage8",
+      "offstage9",
+      "offstage10",
+      "offstage11",
+      "offstage13",
+      "offstage14",
+      "offstage15",
+      "offstage16",
+      "offstage17",
+      "offstage18",
+      "offstage19",
+      "offstage20",
       
       "stage1",
       "stage2",
@@ -69,7 +70,10 @@ function Search() {
       "groupstage3",
       "groupstage4",
       
-      "groupoffstage",
+      "groupoffstage1",
+      "groupoffstage2",
+      "groupoffstage3",
+      "groupoffstage4",
     ];
   
     // Check if the selectedZone is not empty, and filter by zone if applicable
@@ -153,9 +157,31 @@ function Search() {
               selectedItem.stage2 ||
               selectedItem.stage3 ||
               selectedItem.stage4 ||
+              selectedItem.stage5 ||
+              selectedItem.stage6 ||
+              selectedItem.stage7 ||
+              selectedItem.stage8 ||
+              selectedItem.stage9 ||
+              selectedItem.stage10 ||
+              selectedItem.stage12 ||
+              selectedItem.stage12 ||
+              selectedItem.stage13 ||
+              selectedItem.stage14 ||
+              selectedItem.stage15 ||
+              selectedItem.stage16 ||
+              selectedItem.stage17 ||
+              selectedItem.stage18 ||
+              selectedItem.stage19 ||
+              selectedItem.stage20 ||
+              selectedItem.stage21 ||
+              selectedItem.stage22 ||
+              selectedItem.stage23 ||
+              selectedItem.stage24 ||
+      
               selectedItem.groupstage1 ||
               selectedItem.groupstage2 ||
-              selectedItem.groupstage3 ? (
+              selectedItem.groupstage3 ||
+              selectedItem.groupstage4 ? (
                 <>
                   <p className="bg-primary text-sm text-white px-2 py-1 -mb-2 rounded-lg">
                     stage
@@ -165,9 +191,30 @@ function Search() {
                     <p>{selectedItem.stage2}</p>
                     <p>{selectedItem.stage3}</p>
                     <p>{selectedItem.stage4}</p>
+                     <p>{selectedItem.stage5}</p>
+     <p>{selectedItem.stage6}</p>
+     <p>{selectedItem.stage7}</p>
+     <p>{selectedItem.stage8}</p>
+     <p>{selectedItem.stage9}</p>
+     <p>{selectedItem.stage10}</p>
+     <p>{selectedItem.stage11}</p>
+     <p>{selectedItem.stage12}</p>
+     <p>{selectedItem.stage13}</p>
+     <p>{selectedItem.stage14}</p>
+     <p>{selectedItem.stage15}</p>
+     <p>{selectedItem.stage16}</p>
+     <p>{selectedItem.stage17}</p>
+     <p>{selectedItem.stage18}</p>
+     <p>{selectedItem.stage19}</p>
+     <p>{selectedItem.stage20}</p>
+     <p>{selectedItem.stage21}</p>
+     <p>{selectedItem.stage22}</p>
+     <p>{selectedItem.stage23}</p>
+     <p>{selectedItem.stage24}</p>
                     <p>{selectedItem.groupstage1}</p>
                     <p>{selectedItem.groupstage2}</p>
                     <p>{selectedItem.groupstage3}</p>
+                    <p>{selectedItem.groupstage4}</p>
                   </div>
                 </>
               ) : null}
@@ -175,7 +222,28 @@ function Search() {
               {selectedItem.offstage1 ||
               selectedItem.offstage2 ||
               selectedItem.offstage3 ||
-              selectedItem.groupoffstage ? (
+              selectedItem.offstage4 ||
+      selectedItem.offstage5 ||
+      selectedItem.offstage6 ||
+      selectedItem.offstage7 ||
+      selectedItem.offstage8 ||
+      selectedItem.offstage9 ||
+      selectedItem.offstage10 ||
+      selectedItem.offstage11 ||
+      selectedItem.offstage12 ||
+      selectedItem.offstage13 ||
+      selectedItem.offstage14 ||
+      selectedItem.offstage15 ||
+      selectedItem.offstage16 ||
+      selectedItem.offstage17 ||
+      selectedItem.offstage18 ||
+      selectedItem.offstage19 ||
+      selectedItem.offstage20 ||
+      
+              selectedItem.groupoffstage1 ||
+              selectedItem.groupoffstage2 ||
+              selectedItem.groupoffstage3 ||
+              selectedItem.groupoffstage4  ? (
                 <>
                   <p className="bg-primary text-sm text-white px-2 py-1 -mb-2 rounded-lg">
                     offstage
@@ -184,7 +252,27 @@ function Search() {
                     <p>{selectedItem.offstage1}</p>
                     <p>{selectedItem.offstage2}</p>
                     <p>{selectedItem.offstage3}</p>
-                    <p>{selectedItem.groupoffstage}</p>
+                    <p>{selectedItem.offstage4}</p> 
+     <p>{selectedItem.offstage5}</p>
+     <p>{selectedItem.offstage6}</p>
+     <p>{selectedItem.offstage7}</p>
+     <p>{selectedItem.offstage8}</p>
+     <p>{selectedItem.offstage9}</p>
+     <p>{selectedItem.offstage10}</p>
+     <p>{selectedItem.offstage11}</p>
+     <p>{selectedItem.offstage12}</p>
+     <p>{selectedItem.offstage13}</p>
+     <p>{selectedItem.offstage14}</p>
+     <p>{selectedItem.offstage15}</p>
+     <p>{selectedItem.offstage16}</p>
+     <p>{selectedItem.offstage17}</p>
+     <p>{selectedItem.offstage18}</p>
+     <p>{selectedItem.offstage19}</p>
+     <p>{selectedItem.offstage20}</p>
+                    <p>{selectedItem.groupoffstage1}</p>
+                    <p>{selectedItem.groupoffstage2}</p>
+                    <p>{selectedItem.groupoffstage3}</p>
+                    <p>{selectedItem.groupoffstage4}</p>
                   </div>
                 </>
               ) : null}
