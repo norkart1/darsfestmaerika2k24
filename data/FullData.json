@@ -197,7 +197,30 @@
    "groupoffstage1": "45. പത്രനിര്‍മാണം",
    "groupoffstage2": "46. എക്സ്പ്പിനിമേഷൻ"
       
+     },
+     {
+   "code": "KU006",
+   "name": "MUHAMMED AMEEN V",
+   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "darsplace": "VALAMANGALAM",
+   "zone": "QUDSIYA",
+   "slug": "jawharathul-uloom-suffa-dars",
+   "category": "PROGRAM",
+      
+
+   "stage1": "1. ഖിറാഅത്ത്",
+   "stage3": "3. വാങ്ക്",  
+   "stage10": "10. മധുര മലയാളം", 
+   "stage13": "13. വഅ്ള്",
+   "stage14": "14. കവിതാലാപനം",
+
+   "groupstage4": "20. ബുറുദ"
+  
      }
+ 
+ 
+ 
+ 
  
  
  
