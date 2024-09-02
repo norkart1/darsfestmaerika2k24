@@ -509,7 +509,48 @@
    "groupoffstage1": "44. പത്രനിര്‍മാണം",
    "groupoffstage2": "45. എക്സ്പ്പിനിമേഷൻ"
   
- }
+ },
+      {
+      "code": "BA006",
+   "name": "MUHAMMED SIDAN MK",
+   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "darsplace": "VALAMANGALAM",
+   "zone": "BADRIYA",
+   "slug": "jawharathul-uloom-suffa-dars",
+   "category": "PROGRAM",
+   
+  "stage1": "1. ഖിറാഅത്ത്",
+   "stage3": "3. വാങ്ക്",
+   "stage4": "4. പ്രസംഗം അറബി",
+   "stage10": "10. മധുര മലയാളം", 
+
+"groupstage2": "18. സംഘഗാനം(മാപ്പിളപ്പാട്ട്)", 
+   "groupstage4": "20. ബുറുദ",   
+
+   "offstage1": "21. മെമ്മറി ടെസ്റ്",
+   "offstage2": "22. ക്വിസ്സ്",
+   "offstage7": "27. പ്രബന്ധം മലയാളം",
+   "offstage8": "28. പദപയറ്റ് അറബി",
+   "offstage10": "30. കയ്യെഴുത്ത് അറബി",
+   "offstage11": "31. കയ്യെഴുത്ത് മലയാളം",
+   "offstage11": "32. കയ്യെഴുത്ത് ഇംഗ്ലീഷ്",
+   "offstage13": "33. തലക്കെട്ട് നിർമ്മാണം",
+   "offstage14": "34. പോസ്റ്റർ നിർമ്മാണം",
+"offstage15": "35. അടിക്കുറിപ്പ്",
+   "offstage18": "38. കൊളാഷ് നിർമ്മാണം",
+   "offstage20": "40. ടൈപ്പിംഗ് മലയാളം",
+   "offstage22": "42. ടൈപ്പിംഗ് ഇംഗ്ലീഷ്",
+   
+   
+   "groupoffstage1": "44. പത്രനിര്‍മാണം",
+   "groupoffstage2": "45. എക്സ്പ്പിനിമേഷൻ"
+ 
+
+
+   
+  
+  
+      }
   
     
  
