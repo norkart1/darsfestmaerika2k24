@@ -114,6 +114,7 @@ function Search() {
               {selectedItem.stage1 ||
               selectedItem.stage2 ||
               selectedItem.stage3 ||
+              selectedItem.stage4 ||
               selectedItem.groupstage1 ||
               selectedItem.groupstage2 ||
               selectedItem.groupstage3 ? (
@@ -125,6 +126,7 @@ function Search() {
                     <p>{selectedItem.stage1}</p>
                     <p>{selectedItem.stage2}</p>
                     <p>{selectedItem.stage3}</p>
+                    <p>{selectedItem.stage4}</p>
                     <p>{selectedItem.groupstage1}</p>
                     <p>{selectedItem.groupstage2}</p>
                     <p>{selectedItem.groupstage3}</p>
