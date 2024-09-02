@@ -27,6 +27,7 @@ function Search() {
       "stage1",
       "stage2",
       "stage3",
+      "stage4",
       "groupstage1",
       "groupstage2",
       "groupstage3",
