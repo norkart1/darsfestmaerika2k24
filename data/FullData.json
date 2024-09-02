@@ -101,7 +101,59 @@
    "groupoffstage1": "45. പത്രനിര്‍മാണം",
    "groupoffstage2": "46. എക്സ്പ്പിനിമേഷൻ"
         
+     },
+
+     {
+   "code": "KU004",
+   "name": "MUHAMMED SHAREF",
+   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "darsplace": "VALAMANGALAM",
+   "zone": "QUDSIYA",
+   "slug": "jawharathul-uloom-suffa-dars",
+   "category": "PROGRAM",
+   
+   
+      
+   "stage1": "1. ഖിറാഅത്ത്",
+   "stage2": "2. ഹിഫ്ള്",
+   "stage3": "3. വാങ്ക്",
+   "stage4": "4. പ്രസംഗം അറബി",
+   "stage5": "5. പ്രസംഗം മലയാളം",
+   "stage6": "7. അറബി ഗാനം",  
+   "stage7": "9. ഉറുദു ഗാനം",
+   "stage8": "10. മധുര മലയാളം",
+   "stage9": "11. ക്ലാസ്സ് അവതരണം",
+   "stage10": "15. മുശാഅറ",
+   "stage11": "16. ആദർശ ക്ലാസ്സ്",
+   "stage12": "6. പ്രസംഗം ഇംഗ്ലീഷ്",
+      
+   "groupstage1": "17. മാലപാട്ട് ",
+   "groupstage2": "18. സംഘഗാനം(മാപ്പിളപ്പാട്ട്) ",
+   "groupstage3": "20. ബുറുദ",   
+   "groupstage4": "19. കഥാപ്രസംഗം",
+   
+   "offstage1": "21. മെമ്മറി ടെസ്റ്",
+   "offstage2": "22. ക്വിസ്സ്",
+   "offstage3": "23. പെൻസിൽ ഡ്രോയിങ്",
+   "offstage4": "24. ചിത്ര രചന",
+   "offstage5": "25. പ്രബന്ധം അറബി",
+   "offstage6": "26. പ്രബന്ധം ഇംഗ്ലീഷ്",
+   "offstage7": "27. പ്രബന്ധം മലയാളം",
+   "offstage8": "29. പദപയറ്റ് ഇംഗ്ലീഷ്",
+   "offstage9": "30. കയ്യെഴുത്ത് അറബി",
+   "offstage10": "31. കയ്യെഴുത്ത് മലയാളം",
+   "offstage11": "32. കയ്യെഴുത്ത് ഇംഗ്ലീഷ്",
+   "offstage12": "33. തലക്കെട്ട് നിർമ്മാണം",
+   
+   "offstage13": "34. പോസ്റ്റർ നിർമ്മാണം",
+   "offstage14": "35. അടിക്കുറിപ്പ്"
      }
+ 
+ 
+ 
+ 
+ 
+ 
    
    
 ]
