@@ -91,16 +91,17 @@ function DarsDetails() {
             </p>
             <div className="">
               <div  iv className="flex border-b border-slate-800">
-                {Array.from({ length: 9 }, (_, index) => (
+                {Array.from({ length: 20 }, (_, index) => (
                   <p
                     key={index}
                     className="w-6 even:bg-gray-200 font-bold"
                   >
-                    {containsNumber1to9(
+                    {containsNumber1to20(
                       [
                         v.stage1,
                         v.stage2,
                         v.stage3,
+                        v.stage4,
                         v.groupstage1,
                         v.groupstage2,
                         v.groupstage3,
@@ -125,6 +126,7 @@ function DarsDetails() {
                         v.stage1,
                         v.stage2,
                         v.stage3,
+                        v.stage4,
                         v.groupstage1,
                         v.groupstage2,
                         v.groupstage3,
