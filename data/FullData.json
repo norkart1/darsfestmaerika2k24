@@ -51,9 +51,9 @@
    "darsplace": "VALAMANGALAM",
    "zone": "QUDSIYA",
    "slug": "jawharathul-uloom-suffa-dars",
-   "category": "PROGRAM"
+   "category": "PROGRAM",
         
-   "stage1": "1. ഖിറാഅത്ത്",
+  "stage1": "1. ഖിറാഅത്ത്",
    "stage2": "2. ഹിഫ്ള്",
    "stage3": "3. വാങ്ക്",
    "stage4": "4. പ്രസംഗം അറബി",
@@ -63,10 +63,9 @@
    "stage8": "9. ഉറുദു ഗാനം",
    "stage9": "10. മധുര മലയാളം",
    "stage10": "11. ക്ലാസ്സ് അവതരണം",
-   "stage11": "12. അനൗൺസ്മെൻ്റ്",   
+   "stage11": "12. അനൗൺസ്മെൻ്റ്",    
    "stage12": "13. വഅ്ള്",
-   "stage13": "14. കവിതാലാപനം",
-   "stage14": "15. മുശാഅറ",
-   "stage15": "16. ആദർശ ക്ലാസ്സ്"
-    }
+   "stage13": "15. മുശാഅറ",
+   "stage14": "16. ആദർശ ക്ലാസ്സ്"
+     }
 ]
