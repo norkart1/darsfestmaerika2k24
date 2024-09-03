@@ -167,7 +167,7 @@ function DarsDetails() {
                       : ""}
                   </p>
                 ))}
-                {Array.from({ length: 31 }, (_, index) => (
+                {Array.from({ length: 50 }, (_, index) => (
                   <p
                     key={index}
                     className="w-6 even:bg-gray-200 font-bold"
