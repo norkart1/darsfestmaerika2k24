@@ -3,7 +3,7 @@
   {
    "code": "KU001",
    "name": "MUHAMMED ANSHID NT",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "QUDSIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "QUDSIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -550,7 +550,7 @@
       {
       "code": "BA007",
    "name": "MUHAMMED AFHAM N",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "BADRIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "BADRIYA",
    "slug": "jawharathul-uloom-suffa-dars",
