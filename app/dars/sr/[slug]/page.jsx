@@ -25,7 +25,7 @@ function DarsDetails() {
       <div className="">
         <div className="flex h-48 items-end mb-8 w-[1260px]">
           <div className="w-[400px] my-auto text-center">
-            <p className="text-2xl font-bold ">{selectedDars.darsname}</p>
+            <p className="text-2xl font-bold ">{selectedDars.teamname}</p>
             <p className="font-bold mt-2">Program List for Senior Category</p>
           </div>
           <div className="">
