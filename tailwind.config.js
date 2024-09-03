@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#186F65', // Change this to your primary color code
+        primary: '#de9218', // Change this to your primary color code
         primaryDark: '#104a43', // Change this to your primary color code
         secondary: '#d5e5e3', // Change this to your secondary color code
       },
