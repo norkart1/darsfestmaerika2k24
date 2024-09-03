@@ -75,14 +75,10 @@ function DarsWise() {
           <div key={index} className="w-72 bg-secondary p-6 rounded-xl">
             <h1 className="font-bold line-clamp-2 h-12">{item.teamname}</h1>
             <div className="flex gap-2 mt-1">
-              <Link href={`/dars/jr/${item.slug}`}>
-                <button className="px-2 py-1 bg-primary hover:bg-primaryDark rounded-lg text-white font-semibold">
-                  Junior
-                </button>
-              </Link>
+             
               <Link href={`/dars/sr/${item.slug}`}>
                 <button className="px-2 py-1 bg-primary hover:bg-primaryDark rounded-lg text-white font-semibold">
-                  Senior
+                  PROGRAM
                 </button>
               </Link>
             </div>
