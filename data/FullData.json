@@ -544,12 +544,49 @@
    
    "groupoffstage1": "44. പത്രനിര്‍മാണം",
    "groupoffstage2": "45. എക്സ്പ്പിനിമേഷൻ"
+
+  
+      },
+      {
+      "code": "BA007",
+   "name": "MUHAMMED AFHAM N",
+   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "darsplace": "VALAMANGALAM",
+   "zone": "BADRIYA",
+   "slug": "jawharathul-uloom-suffa-dars",
+   "category": "PROGRAM",
+   
+  "stage1": "1. ഖിറാഅത്ത്",
+   "stage3": "3. വാങ്ക്",
+   "stage7": "7. അറബി ഗാനം",
+   "stage8": "8. മലയാള ഗാനം",
+   "stage9": "9. ഉറുദു ഗാനം",     
+   
+   "groupstage2": "18. സംഘഗാനം(മാപ്പിളപ്പാട്ട്)", 
+   "groupstage3": "19. കഥാപ്രസംഗം", 
+   "groupstage4": "20. ബുറുദ",   
+
+   "offstage1": "21. മെമ്മറി ടെസ്റ്",
+   "offstage2": "22. ക്വിസ്സ്",
+   "offstage3": "23. പെൻസിൽ ഡ്രോയിങ്",
+   "offstage4": "24. ചിത്ര രചന",
+   "offstage10": "30. കയ്യെഴുത്ത് അറബി",
+   "offstage11": "31. കയ്യെഴുത്ത് മലയാളം",
+   "offstage11": "32. കയ്യെഴുത്ത് ഇംഗ്ലീഷ്",
+   "offstage13": "33. തലക്കെട്ട് നിർമ്മാണം",
+   "offstage14": "34. പോസ്റ്റർ നിർമ്മാണം",
+   "offstage16": "36. നിഘണ്ടു നിര്‍മ്മാണം (അറ)",
+   "offstage17": "37. നിഘണ്ടു നിര്‍മ്മാണം (ഇംഗ്ലീഷ്)",
+   "offstage18": "38. കൊളാഷ് നിർമ്മാണം",
+   "offstage20": "40. ടൈപ്പിംഗ് മലയാളം",
+   "offstage21": "41. ടൈപ്പിംഗ് അറബി",
+   "offstage22": "42. ടൈപ്പിംഗ് ഇംഗ്ലീഷ്",
+   
+   
+   "groupoffstage1": "44. പത്രനിര്‍മാണം",
+   "groupoffstage2": "45. എക്സ്പ്പിനിമേഷൻ"
  
 
-
-   
-  
-  
       }
   
     
