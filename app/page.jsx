@@ -19,7 +19,7 @@ function Search() {
     const searchFields = [
       "code",
       "name",
-      "darsname",
+      "teamname",
       "category",
       
       "offstage1",
@@ -156,7 +156,7 @@ function Search() {
               </p>
 
               <p className="text-sm mt-3 font-bold text-primary">Team Name</p>
-              <p className="font-bold -mt-1 mb-4">{selectedItem.darsname}</p>
+              <p className="font-bold -mt-1 mb-4">{selectedItem.teamname}</p>
 
               {selectedItem.stage1 ||
               selectedItem.stage2 ||
