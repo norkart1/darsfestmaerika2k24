@@ -98,7 +98,7 @@ function DarsDetails() {
             </p>
             <div className="">
               <div  iv className="flex border-b border-slate-800">
-                {Array.from({ length: 20 }, (_, index) => (
+                {Array.from({ length: 9 }, (_, index) => (
                   <p
                     key={index}
                     className="w-6 even:bg-gray-200 font-bold"
@@ -167,7 +167,7 @@ function DarsDetails() {
                       : ""}
                   </p>
                 ))}
-                {Array.from({ length: 50 }, (_, index) => (
+                {Array.from({ length: 31 }, (_, index) => (
                   <p
                     key={index}
                     className="w-6 even:bg-gray-200 font-bold"
