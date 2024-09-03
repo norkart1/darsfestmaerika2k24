@@ -61,11 +61,11 @@ function DarsWise() {
     <div className="p-12 pt-0 lg:p-20 flex flex-col">
             
       <h1 className="text-center font-extrabold text-3xl text-primary mb-3">
-        Dars Wise Program List
+        Team Wise Program List
       </h1>
       <input
         type="text"
-        placeholder="Search by Dars Name"
+        placeholder="Search by Team Name"
         value={searchText}
         onChange={handleSearch}
         className="w-full px-4 py-2 rounded-xl border-2 border-dashed border-primary"
@@ -76,7 +76,7 @@ function DarsWise() {
             <h1 className="font-bold line-clamp-2 h-12">{item.teamname}</h1>
             <div className="flex gap-2 mt-1">
              
-              <Link href={`/dars/sr/${item.slug}`}>
+              <Link href={`/team/sr/${item.slug}`}>
                 <button className="px-2 py-1 bg-primary hover:bg-primaryDark rounded-lg text-white font-semibold">
                   PROGRAM
                 </button>
