@@ -48,7 +48,7 @@
         
    "code": "KU002",
    "name": "MUHAMMED SHIMLAL PA",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "QUDSIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "QUDSIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -106,7 +106,7 @@
      {
    "code": "KU004",
    "name": "MUHAMMED SHAREF",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "QUDSIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "QUDSIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -151,7 +151,7 @@
      {
    "code": "KU005",
    "name": "MUHAMMED SINAN M",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "QUDSIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "QUDSIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -201,7 +201,7 @@
      {
    "code": "KU006",
    "name": "MUHAMMED AMEEN V",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "QUDSIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "QUDSIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -245,7 +245,7 @@
      {
    "code": "KU007",
    "name": "AHAMAD JUBAIR NK",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "QUDSIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "QUDSIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -290,7 +290,7 @@
      {
    "code": "KU008",
    "name": "MUHAMMED NAVAS MS",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "QUDSIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "QUDSIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -311,7 +311,7 @@
     {
       "code": "BA001",
    "name": "MUHAMMED JIBIN ZIYAD T",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "BADRIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "BADRIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -367,7 +367,7 @@
     {
   "code": "BA002",
   "name": "MUHAMMED JAREER A",
-  "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+  "teamname": "BADRIYA",
   "darsplace": "VALAMANGALAM",
   "zone": "BADRIYA",
   "slug": "jawharathul-uloom-suffa-dars",
@@ -411,7 +411,7 @@
     {
       "code": "BA003",
    "name": "MUHAMMED SHAFI P",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "BADRIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "BADRIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -461,7 +461,7 @@
       {
       "code": "BA004",
    "name": "MUHAMMED IRFANUL ASHIF P",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "BADRIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "BADRIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -472,7 +472,7 @@
    {
       "code": "BA005",
    "name": "MUHAMMED RAHIL KM",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "BADRIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "BADRIYA",
    "slug": "jawharathul-uloom-suffa-dars",
@@ -513,7 +513,7 @@
       {
       "code": "BA006",
    "name": "MUHAMMED SIDAN MK",
-   "darsname": "JAWHARATHUL ULOOM SUFFA DARS",
+   "teamname": "BADRIYA",
    "darsplace": "VALAMANGALAM",
    "zone": "BADRIYA",
    "slug": "jawharathul-uloom-suffa-dars",
