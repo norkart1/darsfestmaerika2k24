@@ -155,7 +155,7 @@ function Search() {
                 {selectedItem.category} Category
               </p>
 
-              <p className="text-sm mt-3 font-bold text-primary">Dars Name</p>
+              <p className="text-sm mt-3 font-bold text-primary">Team Name</p>
               <p className="font-bold -mt-1 mb-4">{selectedItem.darsname}</p>
 
               {selectedItem.stage1 ||
