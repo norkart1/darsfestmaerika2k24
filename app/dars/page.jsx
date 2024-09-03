@@ -16,9 +16,9 @@ function DarsWise() {
 
     setSelectedZone(zone)
   })
-  const uniqueData = Array.from(new Set(Data.map((item) => item.darsname))).map(
-    (darsname) => {
-      return Data.find((item) => item.darsname === darsname);
+  const uniqueData = Array.from(new Set(Data.map((item) => item.teamname))).map(
+    (teamname) => {
+      return Data.find((item) => item.teamname === teamname);
     }
   );
 
@@ -38,13 +38,13 @@ function DarsWise() {
     // Filter the uniqueData based on the search input
     if(selectedZone){
       const filteredResults =  uniqueData.filter((item) => {
-        return item.zone.toLowerCase() === selectedZone.toLowerCase() && item.darsname.toLowerCase().includes(searchTerm.toLowerCase());
+        return item.zone.toLowerCase() === selectedZone.toLowerCase() && item.teamname.toLowerCase().includes(searchTerm.toLowerCase());
       });
   
       setFilteredData(filteredResults);
     }else{
       const filteredResults =  uniqueData.filter((item) => {
-        return item.darsname.toLowerCase().includes(searchTerm.toLowerCase());
+        return item.teamname.toLowerCase().includes(searchTerm.toLowerCase());
       });
   
       setFilteredData(filteredResults);
@@ -73,7 +73,7 @@ function DarsWise() {
       <div className="flex flex-wrap gap-2 justify-center mt-3">
         {displayData.map((item, index) => (
           <div key={index} className="w-72 bg-secondary p-6 rounded-xl">
-            <h1 className="font-bold line-clamp-2 h-12">{item.darsname}</h1>
+            <h1 className="font-bold line-clamp-2 h-12">{item.teamname}</h1>
             <div className="flex gap-2 mt-1">
               <Link href={`/dars/jr/${item.slug}`}>
                 <button className="px-2 py-1 bg-primary hover:bg-primaryDark rounded-lg text-white font-semibold">
