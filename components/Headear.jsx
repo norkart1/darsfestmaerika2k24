@@ -119,9 +119,9 @@ const Headear = ({ selectedZone, setSelectedZone }) => {
       </Link>
       <Link
             className="bg-white text-slate-800 p-2 hover:bg-secondary font-bold rounded-2xl mx-1"
-            href="/team/"
+            href="https://maerika2k24-results.netlify.app/
           >
-            Team List
+            Check Result
           </Link>
     </div>
   );
