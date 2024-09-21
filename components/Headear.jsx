@@ -123,6 +123,14 @@ const Headear = ({ selectedZone, setSelectedZone }) => {
           >
             Check Result
           </Link>
+
+      
+      <Link
+            className="bg-white text-slate-800 p-2 hover:bg-secondary font-bold rounded-2xl mx-1"
+            href="https://stats.uptimerobot.com/yZZTIGtjWk"
+          >
+            Check Result
+          </Link>
     </div>
   );
 };
