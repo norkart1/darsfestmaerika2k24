@@ -22,6 +22,7 @@ function Search() {
       "teamname",
       "category",
       
+     "category",
       "offstage1",
       "offstage2",
       "offstage3",
@@ -33,6 +34,7 @@ function Search() {
       "offstage9",
       "offstage10",
       "offstage11",
+      "offstage12",
       "offstage13",
       "offstage14",
       "offstage15",
@@ -46,11 +48,35 @@ function Search() {
       "offstage23",
       "offstage24",
       "offstage25",
-      
+      "offstage26",
+      "offstage27",
+      "offstage28",
+      "offstage29",
+      "offstage30",
+      "offstage31",
+      "offstage32",
+      "offstage33",
+      "offstage34",
+      "offstage35",
+      "offstage36",
+      "offstage37",
+      "offstage38",
+      "offstage39",
+      "offstage40",
+      "offstage41",
+      "offstage42",
+      "offstage43",
+      "offstage44",
+      "offstage45",
+      "offstage46",
+      "offstage47",
+      "offstage48",
+      "offstage49",
+      "offstage50",
+
       "stage1",
       "stage2",
       "stage3",
-      "stage4",
       "stage4",
       "stage5",
       "stage6",
@@ -68,6 +94,16 @@ function Search() {
       "stage18",
       "stage19",
       "stage20",
+      "stage21",
+      "stage22",
+      "stage23",
+      "stage24",
+      "stage25",
+      "stage26",
+      "stage27",
+      "stage28",
+      "stage29",
+      "stage30",
 
       
       "groupstage1",
@@ -181,7 +217,13 @@ function Search() {
               selectedItem.stage21 ||
               selectedItem.stage22 ||
               selectedItem.stage23 ||
-              selectedItem.stage24 ||
+              selectedItem.stage24 ||   
+              selectedItem.stage25 ||
+              selectedItem.stage26 ||
+              selectedItem.stage27 ||
+              selectedItem.stage28 ||
+              selectedItem.stage29 ||
+              selectedItem.stage30 ||
       
               selectedItem.groupstage1 ||
               selectedItem.groupstage2 ||
@@ -215,7 +257,13 @@ function Search() {
      <p>{selectedItem.stage21}</p>
      <p>{selectedItem.stage22}</p>
      <p>{selectedItem.stage23}</p>
-     <p>{selectedItem.stage24}</p>
+     <p>{selectedItem.stage24}</p>         
+     <p>{selectedItem.stage25}</p>
+     <p>{selectedItem.stage26}</p>
+     <p>{selectedItem.stage27}</p>
+     <p>{selectedItem.stage28}</p>
+     <p>{selectedItem.stage29}</p>
+     <p>{selectedItem.stage30}</p>
                     <p>{selectedItem.groupstage1}</p>
                     <p>{selectedItem.groupstage2}</p>
                     <p>{selectedItem.groupstage3}</p>
@@ -249,6 +297,31 @@ function Search() {
       selectedItem.offstage23 ||
       selectedItem.offstage24 ||
       selectedItem.offstage25 ||
+      selectedItem.offstage26 ||
+      selectedItem.offstage27 ||
+      selectedItem.offstage28 ||
+      selectedItem.offstage20 ||
+      selectedItem.offstage30 ||
+      selectedItem.offstage31 ||
+      selectedItem.offstage32 ||
+      selectedItem.offstage33 ||
+      selectedItem.offstage34 ||
+      selectedItem.offstage35 ||
+      selectedItem.offstage36 ||
+      selectedItem.offstage37 ||
+      selectedItem.offstage38 ||
+      selectedItem.offstage39 ||
+      selectedItem.offstage40 ||
+      selectedItem.offstage41 ||    
+      selectedItem.offstage42 ||
+      selectedItem.offstage43 ||
+      selectedItem.offstage44 ||
+      selectedItem.offstage45 ||
+      selectedItem.offstage46 ||
+      selectedItem.offstage47 ||
+      selectedItem.offstage48 ||
+      selectedItem.offstage49 ||
+      selectedItem.offstage50 ||
       
               selectedItem.groupoffstage1 ||
               selectedItem.groupoffstage2 ||
@@ -284,6 +357,31 @@ function Search() {
      <p>{selectedItem.offstage23}</p>
      <p>{selectedItem.offstage24}</p>
      <p>{selectedItem.offstage25}</p>
+                       <p>{selectedItem.offstage26}</p>
+                    <p>{selectedItem.offstage27}</p>
+                    <p>{selectedItem.offstage28}</p>
+                    <p>{selectedItem.offstage29}</p> 
+     <p>{selectedItem.offstage30}</p>
+     <p>{selectedItem.offstage31}</p>
+     <p>{selectedItem.offstage32}</p>
+     <p>{selectedItem.offstage33}</p>
+     <p>{selectedItem.offstage34}</p>
+     <p>{selectedItem.offstage35}</p>
+     <p>{selectedItem.offstage36}</p>
+     <p>{selectedItem.offstage37}</p>
+     <p>{selectedItem.offstage38}</p>
+     <p>{selectedItem.offstage39}</p>
+     <p>{selectedItem.offstage40}</p>
+     <p>{selectedItem.offstage41}</p>
+     <p>{selectedItem.offstage42}</p>
+     <p>{selectedItem.offstage43}</p>
+     <p>{selectedItem.offstage44}</p>
+     <p>{selectedItem.offstage45}</p>
+     <p>{selectedItem.offstage46}</p>
+     <p>{selectedItem.offstage47}</p>
+     <p>{selectedItem.offstage48}</p>
+     <p>{selectedItem.offstage49}</p>
+     <p>{selectedItem.offstage50}</p>
                     <p>{selectedItem.groupoffstage1}</p>
                     <p>{selectedItem.groupoffstage2}</p>
                     <p>{selectedItem.groupoffstage3}</p>
