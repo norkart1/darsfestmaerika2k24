@@ -465,7 +465,12 @@
    "darsplace": "VALAMANGALAM",
    "zone": "BADRIYA",
    "slug": "jawharathul-uloom-suffa-dars",
-   "category": "PROGRAM"
+   "category": "PROGRAM",
+          
+   "stage1": "1. ഖിറാഅത്ത്",
+   "stage2": "2. ഹിഫ്ള്",
+   "stage3": "3. വാങ്ക്",
+   "stage12": "12. അനൗൺസ്മെൻ്റ്",
    
   
       },
