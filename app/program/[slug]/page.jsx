@@ -181,7 +181,6 @@ function ProgramDetail() {
             <th className="p-1">Dars Place</th>
             <th className="p-1">Mark</th>
             <th className="p-1">Grade</th>
-            <th className="p-1">Remarks</th>
           </tr>
         </thead>
         <tbody>
@@ -192,7 +191,6 @@ function ProgramDetail() {
               <td className="px-1 w-64 line-clamp-1">{v.name}</td>
               <td className="px-1 w-44">{v.darsplace}</td>
               <td className="px-1 w-10"></td>
-              <td className="px-1 w-8"></td>
               <td className="px-1 w-8"></td>
             </tr>
           ))}
