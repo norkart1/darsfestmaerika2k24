@@ -178,7 +178,7 @@ function ProgramDetail() {
             <th className="p-1">Sl No</th>
             <th className="p-1">Code</th>
             <th className="p-1">Name </th>
-            <th className="p-1">Dars Place</th>
+            <th className="p-1">Team Name</th>
             <th className="p-1">Mark</th>
             <th className="p-1">Grade</th>
           </tr>
