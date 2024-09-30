@@ -7,8 +7,7 @@
         "zone": "QUDSIYA",
         "slug": "jawharathul-uloom-suffa-dars",
         "category": "PROGRAM",
-
-        // STAGE PROGRAMS
+        
         "stage1": "1. ഖിറാഅത്ത്",
         "stage2": "2. ഹിഫ്ള്",
         "stage3": "3. വാങ്ക്",
@@ -23,13 +22,11 @@
         "stage13": "13. വഅ്ള്",
         "stage15": "15. മുശാഅറ",
         "stage16": "16. ആദർശ ക്ലാസ്സ്",
-
-        // STAGE GROUP PROGRAMS
+        
         "groupstage1": "17. മാലപാട്ട് ",
         "groupstage2": "18. സംഘഗാനം(മാപ്പിളപ്പാട്ട്) ",
         "groupstage3": "20. ബുറുദ",
 
-        // NON STAGE PROGRAMS
         "offstage21": "21. മെമ്മറി ടെസ്റ്",
         "offstage22": "22. ക്വിസ്സ്",
         "offstage23": "23. പെൻസിൽ ഡ്രോയിങ്",
@@ -45,7 +42,6 @@
         "offstage34": "34. പോസ്റ്റർ നിർമ്മാണം",
         "offstage35": "35. അടിക്കുറിപ്പ്",
 
-        // NON STAGE GROUP PROGRAMS
         "groupoffstage1": "45. പത്രനിര്‍മാണം",
         "groupoffstage2": "46. എക്സ്പ്പിനിമേഷൻ"
     }
