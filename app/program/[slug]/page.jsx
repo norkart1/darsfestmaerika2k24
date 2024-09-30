@@ -3,6 +3,7 @@
 import React from "react";
 import { useParams } from "next/navigation";
 import Data from "../../../data/FullData.json";
+import { jsPDF } from "jspdf";
 
 function ProgramDetail() {
   const { slug } = useParams();
@@ -20,7 +21,7 @@ function ProgramDetail() {
     "offstage36", "offstage37", "offstage38", "offstage39", "offstage40", "offstage41",
     "offstage42", "offstage43", "offstage44", "offstage45", "offstage46", "offstage47",
     "offstage48", "offstage49", "offstage50", "groupstage1", "groupstage2", "groupstage3",
-    "groupstage4", "groupoffstage1", "groupoffstage2", "groupoffstage3"
+    "groupoffstage1", "groupoffstage2", "groupoffstage3"
   ];
 
   const allValues = Data.reduce((result, item) => {
@@ -82,20 +83,26 @@ function ProgramDetail() {
     return <div>Program not found</div>;
   }
 
-  // Create downloadable content
-  const downloadContent = `
-    Program: ${programData.program}
-    Category: ${programData.category}
-    Candidates:
-    ${programData.candidates.map((c, i) => `${i + 1}. ${c.name} (${c.code}) - ${c.darsplace}`).join("\n")}
-  `;
+  // Create downloadable content as PDF
+  const downloadFileAsPDF = () => {
+    const doc = new jsPDF();
 
-  const downloadFile = () => {
-    const blob = new Blob([downloadContent], { type: "text/plain" });
-    const link = document.createElement("a");
-    link.href = URL.createObjectURL(blob);
-    link.download = `${programData.program}-${programData.category}.txt`;
-    link.click();
+    // Add title to the PDF
+    doc.setFontSize(20);
+    doc.text(`Program: ${programData.program}`, 10, 10);
+    doc.setFontSize(16);
+    doc.text(`Category: ${programData.category}`, 10, 20);
+    
+    // Add the candidates table
+    let yPos = 30;
+    doc.setFontSize(12);
+    programData.candidates.forEach((c, i) => {
+      doc.text(`${i + 1}. ${c.name} (${c.code}) - ${c.darsplace}`, 10, yPos);
+      yPos += 10;
+    });
+
+    // Save the PDF
+    doc.save(`${programData.program}-${programData.category}.pdf`);
   };
 
   return (
@@ -109,10 +116,10 @@ function ProgramDetail() {
       </div>
 
       <button
-        onClick={downloadFile}
+        onClick={downloadFileAsPDF}
         className="bg-blue-500 text-white p-2 rounded mb-4"
       >
-        Download Program Data
+        Download Program Data as PDF
       </button>
 
       <table className="m-3">
